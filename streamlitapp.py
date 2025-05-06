@@ -44,7 +44,7 @@ def main():
     
     # Main title
     st.title("🍎 FoodSaver India")
-    st.markdown("## Reducing Food Waste Across India's Supply Chain")
+    st.markdown("## Reducing Food Waste Across India's Supply Chain using AI and web technologies")
 
     # Navigation bar with emoji thumbnails
     nav_cols = st.columns([1,1,1,1])
@@ -93,6 +93,21 @@ def main():
         marketplace.show_marketplace()
     elif st.session_state.current_page == "Analytics":
         analytics.show_analytics()
+
+    # Footer
+    st.markdown("""
+    <div style='
+        background-color: #4CAF50;
+        padding: 15px;
+        border-radius: 10px;
+        margin-top: 3rem;
+        text-align: center;
+        color: white;
+        font-size: 1.8rem;
+    '>
+        © 2025 FoodSaver India. All rights reserved. || Mentor : Dr. Sunita Varjani Ma'am
+    </div>
+    """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()

@@ -105,7 +105,7 @@ def main():
         color: white;
         font-size: 1.8rem;
     '>
-        © 2025 FoodSaver India. All rights reserved. || Mentor : Dr. Sunita Varjani Ma'am
+        © 2025 FoodSaver India. All rights reserved. || Mentor : Dr. Sunita Varjani
     </div>
     """, unsafe_allow_html=True)
 

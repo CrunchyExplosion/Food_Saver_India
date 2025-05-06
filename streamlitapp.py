@@ -103,9 +103,9 @@ def main():
         margin-top: 3rem;
         text-align: center;
         color: white;
-        font-size: 1.8rem;
+        font-size: 1.2rem;
     '>
-        © 2025 FoodSaver India. All rights reserved. || Mentor : Dr. Sunita Varjani
+        © 2025 FoodSaver India. All rights reserved. || Mentor : Dr. Sunita Varjani || Developed and Managed : Apoorv and Arnav
     </div>
     """, unsafe_allow_html=True)
 

@@ -2,6 +2,9 @@
 
 This repository contains a Streamlit application (`streamlitapp.py`) for the Food Saver India project. Follow these instructions to set up a virtual environment in VS Code on both **macOS** and **Windows**, install dependencies, and run the app.
 
+![image](https://github.com/user-attachments/assets/dc7137cd-1598-46cf-90a6-1641276742ab)
+
+
 Repository: [Food_Saver_India](https://github.com/CrunchyExplosion/Food_Saver_India)
 
 ---
